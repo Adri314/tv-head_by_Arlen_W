@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQOAA4AAACZmZmZCQAAAImIiIgJAAAAif//jwkAAACJn/+PmQkAAIn//49pmZkAif/5j2lplgCJ/5+PZmaZAIn/n49mZpkAif/5j2lplgCJ//+PaZmZAImf/4+ZCQAAif//jwkAAACJiIiICQAAAJmZmZkJAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "TV"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
